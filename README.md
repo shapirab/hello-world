@@ -1,3 +1,3 @@
 # hello-world
-this is an exercise project
+Now a new thing
 
